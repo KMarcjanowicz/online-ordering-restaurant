@@ -1,0 +1,19 @@
+appetizers
+Cheese platter,3.12,345.0
+Tomato Soup,2.5,90
+Chicken Soup,3,120
+Cheese and tomato toastie,4,93
+Smoked salmon and cream cheese parcels,5,109
+mains
+Fish n' Chips,6,840
+Porkchops with vegetable salad and baked potatoes,7,600
+Bangers and Mash,6.50,800
+Sunday Roast,7.30,756
+Shepherd’s Pie/Cottage Pie,6.90,692
+Steak and Kidney Pie,5.95,556
+desserts
+Bagel with jam,1.5,200.0
+Bread and Butter Pudding,4,433
+Victoria Sponge,3.6,336
+Peach Melba,3.2,521
+Bakewell Tart,3.25,496
